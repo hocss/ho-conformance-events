@@ -1,6 +1,6 @@
 {
   "name": "ho-conformance-events",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Common events for conformance testing",
   "main": "index.js",
   "repository": {
