@@ -13,5 +13,6 @@ exports.PARSE = {
     COMMENT: 'parse:comment',
     MIXIN: 'parse:mixin',
     MIXIN_DEFINITION: 'parse:mixinDefintion',
-    MIXIN_CALL: 'parse:mixinCall'
+    MIXIN_CALL: 'parse:mixinCall',
+    MEDIA: 'parse:media'
 }
