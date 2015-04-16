@@ -1,6 +1,6 @@
 {
   "name": "ho-conformance-events",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Common events for conformance testing",
   "main": "index.js",
   "repository": {
@@ -18,7 +18,8 @@
     "url": "https://github.com/hocss/ho-conformance-events/issues"
   },
   "homepage": "https://github.com/hocss/ho-conformance-events",
-  "dependencies": {},
+  "dependencies": {
+  },
   "devDependencies": {
   }
 }
